@@ -25,3 +25,7 @@ For example, "The stock of money is fixed." can be written as `🔒(stock of mon
 ## Logic Flow
 
 "A rise in workers' savings (S) would reduce the gross profits (Π)." can be written as `↑S → ↓Π`.
+
+## Vice Versa
+
+"↑S → ↓Π. The opposite is also true: ↓S → ↑Π." can be written as `↑S → ↓Π 🔃`.
