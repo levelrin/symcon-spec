@@ -19,3 +19,7 @@ Therefore, it might be better to design a new writing system for concise and int
 Parentheses can be used for a variable name with spaces.
 
 For example, "The stock of money is fixed." can be written as `🔒(stock of money)`.
+
+## Logic Flow
+
+"A rise in workers' savings (S) would reduce the gross profits (Π)." can be written as `↑S → ↓Π`.
