@@ -14,6 +14,8 @@ Therefore, it might be better to design a new writing system for concise and int
 
 "The price is fixed." can be written as `🔒price`.
 
+Ceteris paribus (all other things held constant) can be written as `🔒*`.
+
 ## Scope
 
 Parentheses can be used for a variable name with spaces.
