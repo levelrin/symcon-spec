@@ -29,3 +29,7 @@ For example, "The stock of money is fixed." can be written as `🔒(stock of mon
 ## Vice Versa
 
 "↑S → ↓Π. The opposite is also true: ↓S → ↑Π." can be written as `↑S → ↓Π 🔃`.
+
+## Assumption
+
+"Let's assume that the stock of money is fixed. A rise in the price level would reduce the quantity of purchasable goods, meaning the real money value decreases." can be written as `🔒(stock of money) ⇒ ↑(price level) → ↓(purchasable goods) → ↓(real money value)`.
