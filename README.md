@@ -49,3 +49,7 @@ For example, "Let's assume the price level is fixed, and we cannot run out of go
 🔒(price level), (no running out of goods) ⇒ ↓(stock of money) → ↓(real money value)
 ∵ ↓(real money value) = ↓(stock of money) / 🔒(price level)
 ```
+
+## Effectively the same
+
+"A fall in real money value is effectively the same as a fall in money supply." can be written as `↓(real money value) ≈ ↓(money supply)`.
