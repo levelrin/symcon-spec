@@ -38,4 +38,14 @@ For example, "The stock of money is fixed." can be written as `🔒(stock of mon
 
 We can use a comma (,) to enumerate expressions.
 
-For example, "Let's assume the price level is fixed, and we cannot run out of goods as long as we have money to purchase. With that assumption, a fall in stock of money would reduce the real money value." can be written as `🔒(price level), (no running out of goods) ⇒ ↓(stock of money) → ↓(real money value)`.
+For example, "Let's assume the price level is fixed, and we cannot run out of goods as long as we have money to purchase. With that assumption, a fall in the stock of money would reduce the real money value." can be written as `🔒(price level), (no running out of goods) ⇒ ↓(stock of money) → ↓(real money value)`.
+
+## Because
+
+We can use the symbol `∵` to say "because" or add reasoning.
+
+For example, "Let's assume the price level is fixed, and we cannot run out of goods as long as we have money to purchase. With that assumption, a fall in the stock of money would reduce the real money value. By definition, (real money value) = (stock of money)/(price level). That's why the value of real money is decreased when the stock of money is decreased, given that the price level is fixed." can be written as the following:
+```
+🔒(price level), (no running out of goods) ⇒ ↓(stock of money) → ↓(real money value)
+∵ ↓(real money value) = ↓(stock of money) / 🔒(price level)
+```
