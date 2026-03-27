@@ -33,3 +33,9 @@ For example, "The stock of money is fixed." can be written as `🔒(stock of mon
 ## Assumption
 
 "Let's assume that the stock of money is fixed. A rise in the price level would reduce the quantity of purchasable goods, meaning the real money value decreases." can be written as `🔒(stock of money) ⇒ ↑(price level) → ↓(purchasable goods) → ↓(real money value)`.
+
+## Enumeration
+
+We can use a comma (,) to enumerate expressions.
+
+For example, "Let's assume the price level is fixed, and we cannot run out of goods as long as we have money to purchase. With that assumption, a fall in stock of money would reduce the real money value." can be written as `🔒(price level), (no running out of goods) ⇒ ↓(stock of money) → ↓(real money value)`.
